@@ -1,0 +1,3 @@
+[submodule "libmarkov"]
+	path = libmarkov
+	url = https://github.com/tvdstaaij/libmarkov
